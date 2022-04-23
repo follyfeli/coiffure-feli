@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "549325855860",
+    "project_id": "elproject-8c629",
+    "storage_bucket": "elproject-8c629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549325855860:android:a2d81ea0f7cb59d6b1c521",
+        "android_client_info": {
+          "package_name": "com.coiffure_femme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW1-X2c_gshBN5tAjlQ1BMeM_ZXiDOmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5352419258411459~9898592353"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549325855860:android:058b0a7dd942bf6fb1c521",
+        "android_client_info": {
+          "package_name": "com.coiffure_homme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW1-X2c_gshBN5tAjlQ1BMeM_ZXiDOmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5352419258411459~1910089990"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549325855860:android:0c519134374c66ecb1c521",
+        "android_client_info": {
+          "package_name": "com.couture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW1-X2c_gshBN5tAjlQ1BMeM_ZXiDOmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5352419258411459~5226981492"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549325855860:android:9920094202b55e17b1c521",
+        "android_client_info": {
+          "package_name": "com.style_afro_hairstyle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlW1-X2c_gshBN5tAjlQ1BMeM_ZXiDOmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549325855860-r5c387ds4ep21kjvhvrc71o0qt6ijk25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
